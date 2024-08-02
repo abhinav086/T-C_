@@ -1,57 +1,32 @@
-**Privacy Policy**
+Privacy Policy for La Fitness App
 
-This privacy policy applies to the La Fitnesse app (hereby referred to as "Application") for mobile devices that was created by AB news (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Last updated: August 2, 2024
 
-**Information Collection and Use**
+Introduction
 
-The Application does not collects information when you download and use it. 
+Thank you for choosing the La Fitness app. Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our app. Please note that this initial version of La Fitness does not collect, use, or share any personal data from its users.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+No Data Collection
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to abstarnews@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The La Fitness app currently does not collect any personal information or data from its users. We do not gather, store, or process any data, including but not limited to:
 
-**Third Party Access**
+Personal identification information (Name, email address, phone number, etc.)
+Device information (IP address, device type, operating system, etc.)
+Usage data (app interactions, preferences, etc.)
+No Functionalities
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The current version of the La Fitness app does not have any active functionalities that require user input or interaction. As such, there is no need for data collection or user authentication.
 
-Please note that the Application does not utilizes third-party services that have their own Privacy Policy about handling data. 
+Safety and Security
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+We prioritize your privacy and security. Since our app does not collect any data, there are no concerns regarding data breaches or misuse of your information. We are committed to maintaining the app's safety and ensuring a secure user experience.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Changes to This Privacy Policy
 
-**Opt-Out Rights**
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and we will update the "Last updated" date at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Contact Us
 
-**Data Retention Policy**
+If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at abstarnews@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (abstarnews@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2024-08-01
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at abstarnews@gmail.com
-
-* * *
+Email: abstarnews@gmail.com
